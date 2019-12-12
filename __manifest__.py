@@ -3,7 +3,7 @@
     'name': "odoo_package_addon",
 
     'summary': """
-        This is a test module for OdooShort (1 phrase/line) summary of the module's purpose, used as
+        This is a test module for Odoo from Igor. Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
